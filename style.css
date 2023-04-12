@@ -1,0 +1,30 @@
+.heading{
+    font-size: 25px;
+    background-color: lightgreen;
+    margin: 0px;
+    box-shadow: 5px 5px 30px hotpink; 
+    font-weight: bold;
+}
+.note{
+    font-size: 20px;
+}
+.footer{
+    font-size: 12px;
+    background-color: lightcoral;
+    font-weight: bold;
+    bottom: 0px;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    line-height-step: 3;
+}
+canvas{
+    border: 5px solid lightseagreen;
+    border-radius: 10px;
+    box-shadow: 10px 10px 30px mediumaquamarine;
+}
+body{
+    
+    background: rgb(251,63,63);
+background: radial-gradient(circle, rgba(251,63,63,1) 0%, rgba(70,252,115,1) 100%);
+}
